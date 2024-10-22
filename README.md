@@ -1,6 +1,7 @@
 # Grammarly’s Impact on the AI Landscape
 
-<span style="font-family: 'Times New Roman', times, serif">Times</span>
+<span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grammarly is the leader in digital writing assistance, helping English-speaking users across various fields and demographics with grammar, spelling, punctuation, and style errors. Providing real-time advice on grammar, clarity, and tone, Grammarly has an extensive array of features to help its users with their online communication. This includes academic papers, emails, social media posts, and more, allowing its use to be widely appreciated by everyday users, academics, and businesses alike. Founded in 2009 by Max Lytvyn, Alex Shevchenko, and Dmytro Lider, their goal was to create software that helped people write and communicate more effectively. According to the company's website, 
 >
