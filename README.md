@@ -10,6 +10,7 @@
 >“Apple’s Siri became known as one of the world’s first successful NLP/AI assistants. Siri’s automated speech recognition module translates the owner’s words into digitally interpreted concepts, and then the voice-command system matches those concepts to predefined commands, initiating specific actions.”[5]
 >
 Amazon’s Alexa and Google Home devices use a similar structure, becoming more advanced in their capabilities over the years due to machine learning. In 2018, OpenAI released its first GPT (Generative Pretrained Transformer) followed by the more widely known predecessor, ChatGPT in 2022.[6][7] 
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grammarly has had a significant impact on businesses and everyday users alike. Businesses have reported that 
 >
 >“Grammarly saves them an average of 19 working days—an estimated $5,000+—per employee per year. For a company of 1,000 employees, that’s over $5.1 million in annual savings and over 17X return on investment”.[3]
